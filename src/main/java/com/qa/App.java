@@ -18,7 +18,7 @@ public class App
         System.out.println(sayHelloToSomeone("I keep forgetting -m on commits"));
         System.out.println(sayHelloToSomeone("I will get it right this time "));
         System.out.println(sayHelloToSomeone("Beats a day in the office"));
-        System.out.println(sayHelloToSomeone("testing static Ip "));
+        System.out.println(sayHelloToSomeone("testing static Ips"));
         System.out.println(sayGoodbye());
   
     }
