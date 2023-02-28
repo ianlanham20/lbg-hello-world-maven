@@ -16,6 +16,7 @@ public class App
         System.out.println(sayHelloToSomeone("Help me. im trapped in jenkins"));
         System.out.println(sayHelloToSomeone("Help me. im trapped in jenkins again"));
         System.out.println(sayHelloToSomeone("I keep forgetting -m on commits"));
+        System.out.println(sayHelloToSomeone("I will get it right this time "));
         System.out.println(sayGoodbye());
   
     }
